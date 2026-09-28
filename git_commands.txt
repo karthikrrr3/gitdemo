@@ -1,0 +1,10 @@
+git confing --global user.name="username"
+git confing --global user.email="email"
+-- git init --
+git status
+git add.
+git commit-m "commit message"
+git log
+git remote add origin link
+git push origin master
+git remote -v for showing the details of remote repostory
